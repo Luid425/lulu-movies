@@ -1,3 +1,4 @@
-# Movieland
+# Lulu Movies
 
-Movieland is a serach engine 
+Lulu Movies is a film serach engine based on "The Open Movie Database".
+
