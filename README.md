@@ -1,6 +1,6 @@
 # Lulu Movies
 
-Lulu Movies is a film serach engine based on "The Open Movie Database".
+Lulu Movies is a movie search engine based on "The Open Movie Database".
 
 ## Getting Started
 
