@@ -1,5 +1,7 @@
 # Lulu Movies
 
+![My Image](src/img/lulu-movies.png)
+
 Lulu Movies is a movie search engine based on "The Open Movie Database".
 
 ## Getting Started
