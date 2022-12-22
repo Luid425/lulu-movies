@@ -31,7 +31,7 @@ const App = function () {
       </div> */}
       <div className="app">
         <div className="title">
-          <h1>Movies</h1>
+          <h1>Lulu Movies</h1>
           <img src={Popcoorn} alt="popcorn " />
         </div>
 
